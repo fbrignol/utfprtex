@@ -1,0 +1,1 @@
+  * [Instalando e exemplo de uso](getstarted.md)
